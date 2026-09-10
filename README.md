@@ -12,6 +12,17 @@ The app provides an interactive typing experience with switchable templates, des
 x install tukai
 ```
 
+## Code insight
+
+Total: **2,529** lines of code across **26** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 2,438 | 88 | 571 | 15 |
+| Toml | 91 | 41 | 8 | 3 |
+| Markdown | 0 | 79 | 43 | 2 |
+| Text | 0 | 11,071 | 0 | 6 |
+
 ## Source
 
 - **Upstream**: <https://github.com/hlsxx/tukai>
@@ -35,19 +46,20 @@ x install tukai
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 2 | 0 | 0 | 0 | 2 |
+| last180d | 2026-03-14 | 0 | 4 | 0 | 1 | 1 | 4 |
 | 360d | 2025-09-15 | 0 | 6 | 0 | 1 | 1 | 11 |
+| last720d | 2024-09-20 | 10 | 22 | 0 | 10 | 1 | 262 |
 
-## Code size
+## Distribution status
 
-Total: **2,529** lines of code across **26** files in the top 5 languages.
+Reported by **9** distros on [repology.org](https://repology.org/project/tukai). **9** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 2,438 | 88 | 571 | 15 |
-| Toml | 91 | 41 | 8 | 3 |
-| Markdown | 0 | 79 | 43 | 2 |
-| Text | 0 | 11,071 | 0 | 6 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.2.3` | ✅ latest |
+| Nix unstable | `0.2.3` | ✅ latest |
 
 ## Improve this data
 
@@ -58,4 +70,4 @@ Install metadata for tukai lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:54:11Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:41:14Z._
