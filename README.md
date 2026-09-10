@@ -21,11 +21,10 @@ x install tukai
 
 - **Latest**: `v0.2.3` (2025-08-09)
 - **Last commit**: 2026-07-06
-- **Published**: 2025-08-09T12:51:21Z
 
 ## Popularity
 
-- **Stars**: 142 · **Forks**: 12 · **Open issues**: 11 · **Contributors**: 12
+- **Stars**: 143 · **Forks**: 12 · **Open issues**: 11 · **Contributors**: 12
 
 ## Totals (cumulative)
 
@@ -55,8 +54,8 @@ Total: **2,529** lines of code across **26** files in the top 5 languages.
 Install metadata for tukai lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tukai` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/tukai.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/tukai.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:07:26Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:54:11Z._
