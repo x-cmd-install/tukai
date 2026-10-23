@@ -14,14 +14,14 @@ x install tukai
 
 ## Code insight
 
-Total: **2,529** lines of code across **26** files in the top 5 languages.
+Total: **2,529** lines of code across **27** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 2,438 | 88 | 571 | 15 |
 | Toml | 91 | 41 | 8 | 3 |
 | Markdown | 0 | 79 | 43 | 2 |
-| Text | 0 | 11,071 | 0 | 6 |
+| Text | 0 | 12,271 | 1 | 7 |
 
 ## Source
 
@@ -31,26 +31,35 @@ Total: **2,529** lines of code across **26** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.2.3` (2025-08-09)
-- **Last commit**: 2026-07-06
+- **Last commit**: 2026-10-22
 
 ## Popularity
 
-- **Stars**: 144 · **Forks**: 12 · **Open issues**: 12 · **Contributors**: 12
+- **Stars**: 144 · **Forks**: 12 · **Open issues**: 12 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 22 · **Open PRs**: 1 · **Closed issues**: 10 · **Open issues**: 2 · **Commits**: 262
+- **Releases**: 10 · **Merged PRs**: 23 · **Open PRs**: 0 · **Closed issues**: 10 · **Open issues**: 2 · **Commits**: 265
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last180d | 2026-04-25 | 0 | 3 | 1 | 0 | 2 | 3 |
-| 360d | 2025-10-27 | 0 | 5 | 1 | 1 | 2 | 5 |
-| last720d | 2024-11-01 | 10 | 22 | 1 | 10 | 2 | 242 |
+| 30d | 2026-09-23 | 0 | 1 | 0 | 0 | 1 | 1 |
+| last60d | 2026-08-24 | 0 | 1 | 0 | 0 | 1 | 1 |
+| 90d | 2026-07-25 | 0 | 1 | 0 | 0 | 1 | 1 |
+| last180d | 2026-04-26 | 0 | 4 | 0 | 0 | 2 | 4 |
+| 360d | 2025-10-28 | 0 | 6 | 0 | 1 | 2 | 6 |
+| last720d | 2024-11-02 | 10 | 23 | 0 | 10 | 2 | 245 |
+
+## Distribution status
+
+Reported by **9** distros on [repology.org](https://repology.org/project/tukai). **9** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.2.3` | ✅ latest |
+| Nix unstable | `0.2.3` | ✅ latest |
 
 ## Improve this data
 
@@ -61,4 +70,4 @@ Install metadata for tukai lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:53:43Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:03:07Z._
