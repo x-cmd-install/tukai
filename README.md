@@ -39,18 +39,18 @@ Total: **2,529** lines of code across **27** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 23 · **Open PRs**: 0 · **Closed issues**: 10 · **Open issues**: 2 · **Commits**: 265
+- **Releases**: 10 · **Merged PRs**: 23 · **Open PRs**: 1 · **Closed issues**: 10 · **Open issues**: 2 · **Commits**: 265
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 1 | 0 | 0 | 1 | 1 |
-| last60d | 2026-09-08 | 0 | 1 | 0 | 0 | 1 | 1 |
-| 90d | 2026-08-09 | 0 | 1 | 0 | 0 | 1 | 1 |
-| last180d | 2026-05-11 | 0 | 3 | 0 | 0 | 1 | 3 |
-| 360d | 2025-11-12 | 0 | 6 | 0 | 1 | 2 | 6 |
-| last720d | 2024-11-17 | 10 | 23 | 0 | 10 | 2 | 189 |
+| 30d | 2026-10-09 | 0 | 1 | 1 | 0 | 1 | 1 |
+| last60d | 2026-09-09 | 0 | 1 | 1 | 0 | 1 | 1 |
+| 90d | 2026-08-10 | 0 | 1 | 1 | 0 | 1 | 1 |
+| last180d | 2026-05-12 | 0 | 3 | 1 | 0 | 1 | 3 |
+| 360d | 2025-11-13 | 0 | 6 | 1 | 1 | 2 | 6 |
+| last720d | 2024-11-18 | 10 | 23 | 1 | 10 | 2 | 183 |
 
 ## Distribution status
 
@@ -70,4 +70,4 @@ Install metadata for tukai lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:16:55Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:15:10Z._
