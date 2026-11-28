@@ -45,21 +45,12 @@ Total: **2,529** lines of code across **27** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 0 | 1 | 1 | 0 | 0 |
-| last60d | 2026-09-28 | 0 | 1 | 1 | 1 | 1 | 1 |
-| 90d | 2026-08-29 | 0 | 1 | 1 | 1 | 1 | 1 |
-| last180d | 2026-05-31 | 0 | 2 | 1 | 1 | 1 | 2 |
-| 360d | 2025-12-02 | 0 | 5 | 1 | 2 | 2 | 5 |
-| last720d | 2024-12-07 | 7 | 21 | 1 | 11 | 2 | 153 |
-
-## Distribution status
-
-Reported by **9** distros on [repology.org](https://repology.org/project/tukai). **9** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.2.3` | ✅ latest |
-| Nix unstable | `0.2.3` | ✅ latest |
+| 30d | 2026-10-29 | 0 | 0 | 1 | 1 | 0 | 0 |
+| last60d | 2026-09-29 | 0 | 1 | 1 | 1 | 1 | 1 |
+| 90d | 2026-08-30 | 0 | 1 | 1 | 1 | 1 | 1 |
+| last180d | 2026-06-01 | 0 | 2 | 1 | 1 | 1 | 2 |
+| 360d | 2025-12-03 | 0 | 5 | 1 | 2 | 2 | 5 |
+| last720d | 2024-12-08 | 7 | 21 | 1 | 11 | 2 | 152 |
 
 ## Improve this data
 
@@ -70,4 +61,4 @@ Install metadata for tukai lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:56:26Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:08:21Z._
